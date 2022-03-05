@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Laptop">b0c28665978a01104f9530d3f153af55</icon>
+        <item_view/>
+        <name>User Data Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-05 07:10:51</sys_created_on>
+        <sys_id>c5c24a65978a01104f9530d3f153af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Data Form Screen</sys_name>
+        <sys_package display_value="Game2022" source="x_548495_game2022">147046a9974a01104f9530d3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game2022">147046a9974a01104f9530d3f153afe5</sys_scope>
+        <sys_update_name>sys_sg_form_screen_c5c24a65978a01104f9530d3f153af10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-05 07:10:51</sys_updated_on>
+        <table>x_548495_game2022_user_data</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="User Data Detail Screen View Config">c1c20a65978a01104f9530d3f153aff9</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=c5c24a65978a01104f9530d3f153af10"/>
+</record_update>

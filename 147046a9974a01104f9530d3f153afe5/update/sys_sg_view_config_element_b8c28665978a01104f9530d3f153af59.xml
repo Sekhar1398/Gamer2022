@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>last_name-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-05 07:10:51</sys_created_on>
+        <sys_id>b8c28665978a01104f9530d3f153af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>last_name-FieldValue</sys_name>
+        <sys_package display_value="Game2022" source="x_548495_game2022">147046a9974a01104f9530d3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game2022">147046a9974a01104f9530d3f153afe5</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_b8c28665978a01104f9530d3f153af59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-05 07:10:51</sys_updated_on>
+        <view_config display_value="User Data List Screen View Config">7cc28665978a01104f9530d3f153af58</view_config>
+        <view_template_slot display_value="text_01">177205bc41e35010f877183fc9b8bedd</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

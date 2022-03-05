@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Game2022 User Data</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-05 07:10:51</sys_created_on>
+        <sys_id>bcc28665978a01104f9530d3f153af57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Game2022 User Data</sys_name>
+        <sys_package display_value="Game2022" source="x_548495_game2022">147046a9974a01104f9530d3f153afe5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Game2022">147046a9974a01104f9530d3f153afe5</sys_scope>
+        <sys_update_name>sys_sg_data_item_bcc28665978a01104f9530d3f153af57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-05 07:10:51</sys_updated_on>
+        <table>x_548495_game2022_user_data</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=bcc28665978a01104f9530d3f153af57"/>
+</record_update>

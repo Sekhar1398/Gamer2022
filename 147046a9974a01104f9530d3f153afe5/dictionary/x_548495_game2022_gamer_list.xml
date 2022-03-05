@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Gamer List" max_length="40" name="x_548495_game2022_gamer_list" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Game List" max_length="40" name="game_list" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Car Race" value="car_race"/>
+                <element inactive_on_update="false" label="Carm" value="carm"/>
+                <element inactive_on_update="false" label="Chess" value="chess"/>
+                <element inactive_on_update="false" label="Ludo" value="ludo"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" display="true" label="Player Name" max_length="32" name="player_name" reference="x_548495_game2022_user_data" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="player_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
