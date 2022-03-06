@@ -24,17 +24,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bfc286a1978a01104f9530d3f153af1d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User Registration</sys_name>
         <sys_overrides/>
         <sys_package display_value="Game2022" source="x_548495_game2022">147046a9974a01104f9530d3f153afe5</sys_package>
         <sys_policy/>
         <sys_scope display_value="Game2022">147046a9974a01104f9530d3f153afe5</sys_scope>
         <sys_update_name>sys_app_module_bfc286a1978a01104f9530d3f153af1d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-05 07:11:02</sys_updated_on>
+        <sys_updated_on>2022-03-06 04:29:51</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>User Registration</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
